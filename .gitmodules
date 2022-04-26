@@ -1,0 +1,4 @@
+[submodule "blogsite/public"]
+	path = blogsite/public
+	url = https://github.com/laurabondeholst/socialdata_blog.github.io
+	branch = main
